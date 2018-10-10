@@ -2,3 +2,4 @@
 Ahk script for LumLock and CapsLock indicators.
 
 ## Change tray icons as you wish. 
+//document 
